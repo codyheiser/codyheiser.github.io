@@ -6,7 +6,7 @@ Ph.D. Candidate at Vanderbilt University in the [Lau Lab](https://Ken-Lau-Lab.gi
 
 ## Publications
 
-**Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research* (in press). Cold Spring Harbor Press.
+**Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research* (in press). Cold Spring Harbor Press. ([bioRxiv Preprint](https://doi.org/10.1101/2020.10.08.332288))
 
 Chen B, Ramirez-Solano MA, **Heiser CN**, Liu Q, Lau KS. 2021. Processing single-cell RNA-seq data for dimension reduction-based analyses using open-source tools. *STAR Protocols* (in press). Cell Press.
 
