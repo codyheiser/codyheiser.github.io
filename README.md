@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Cody Heiser
 
-You can use the [editor on GitHub](https://github.com/codyheiser/codyheiser.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Ph.D. Candidate at Vanderbilt University in the [Lau Lab](https://Ken-Lau-Lab.github.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research* (in press). Cold Spring Harbor Press.
 
-```markdown
-Syntax highlighted code block
+Chen B, Ramirez-Solano MA, **Heiser CN**, Liu Q, Lau KS. 2021. Processing single-cell RNA-seq data for dimension reduction-based analyses using open-source tools. *STAR Protocols* (in press). Cell Press.
 
-# Header 1
-## Header 2
-### Header 3
+Bao S, Chiron S, Tang Y, **Heiser CN**, et al. A cross-platform informatics system for the Gut Cell Atlas: integrating clinical, anatomical and histological data. *Proc. SPIE 11601, Medical Imaging 2021: Imaging Informatics for Healthcare, Research, and Applications*, 1160106. 15 Feb 2021. [doi: 10.1117/12.2581074](https://doi.org/10.1117/12.2581074).
 
-- Bulleted
-- List
+Chen B, McKinley ET, Simmons AJ, Ramirez-Solano MA, Zhu X, Southard-Smith AN, Markham NO, Sheng Q, Drewes JL, Xu Y, **Heiser CN**, et al. 2021. Human colorectal pre-cancer atlas identifies distinct molecular programs underlying two major subclasses of pre-malignant tumors. *bioRxiv*. Cold Spring Harbor Press. [doi: 10.1101/2021.01.11.426044](https://doi.org/10.1101/2021.01.11.426044).
 
-1. Numbered
-2. List
+**Heiser CN** and Lau KS. 2020. A quantitative framework for evaluating single-cell data structure preservation by dimensionality reduction techniques. *Cell Reports*. Cell Press, 31(5), p. 107576. [doi: 10.1016/j.celrep.2020.107576](https://doi.org/10.1016/j.celrep.2020.107576).
 
-**Bold** and _Italic_ and `Code` text
+Rozenblatt-Rosen O, et al. 2020. The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution, *Cell*. Cell Press, 181(2), pp. 236–249. [doi: 10.1016/J.CELL.2020.03.053](https://doi.org/10.1016/J.CELL.2020.03.053).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codyheiser/codyheiser.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnatal murine β-cell fitness by regulating genes in Ca 2+ homeostasis, cell survival, vesicle biosynthesis, glucose metabolism, and stress response. *Diabetes*. p. db190721. [doi: 10.2337/db19-0721](https://doi.org/10.2337/db19-0721).
