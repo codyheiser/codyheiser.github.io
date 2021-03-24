@@ -1,10 +1,15 @@
-# Cody Heiser
+# Education
 
-Ph.D. Candidate at Vanderbilt University in the [Lau Lab](https://Ken-Lau-Lab.github.io)
+## Vanderbilt University
 
----
+> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/) 2022 (*expected*)
+> Thesis research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
 
-## Publications
+## University of Texas at Austin
+
+> B.S., [Biomedical Engineering](https://www.bme.utexas.edu/), 2016
+
+# Publications
 
 **Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research* (in press). Cold Spring Harbor Press. ([bioRxiv Preprint](https://doi.org/10.1101/2020.10.08.332288))
 
@@ -19,3 +24,10 @@ Chen B, McKinley ET, Simmons AJ, Ramirez-Solano MA, Zhu X, Southard-Smith AN, Ma
 Rozenblatt-Rosen O, et al. 2020. The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution, *Cell*. Cell Press, 181(2), pp. 236–249. [doi: 10.1016/J.CELL.2020.03.053](https://doi.org/10.1016/J.CELL.2020.03.053).
 
 Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnatal murine β-cell fitness by regulating genes in Ca 2+ homeostasis, cell survival, vesicle biosynthesis, glucose metabolism, and stress response. *Diabetes*. p. db190721. [doi: 10.2337/db19-0721](https://doi.org/10.2337/db19-0721).
+
+# Links
+
+* [ORCID: 0000-0002-1299-1628](https://orcid.org/0000-0002-1299-1628)
+* [www.linkedin.com/in/codyheiser](https://www.linkedin.com/in/codyheiser)
+* [Lau Lab Website](https://www.mc.vanderbilt.edu/vumcdept/cellbio/laulab/people.html)
+* [Lau Lab Software](https://Ken-Lau-Lab.github.io)
