@@ -28,16 +28,29 @@ Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnat
 # Code
 
 `dropkick`: automated QC and cell identification of <acronym title="single-cell RNA sequencing">scRNA-seq</acronym> data
-    [GitHub](https://github.com/KenLauLab/dropkick)
-    [PyPI](https://pypi.python.org/pypi/dropkick/) [![Latest Version][pypi-image]][pypi-url]
-    [Docs](https://kenlaulab.github.io/dropkick/)
+
+* [GitHub](https://github.com/KenLauLab/dropkick)
+* [PyPI](https://pypi.python.org/pypi/dropkick/) [![Latest Version][pypi-image-dropkick]][pypi-url-dropkick]
+* [Docs](https://kenlaulab.github.io/dropkick/)
 
 `STAR_protocol`: standard processing workflow for <acronym title="single-cell RNA sequencing">scRNA-seq</acronym> data
-    [GitHub](https://github.com/KenLauLab/STAR_Protocol)
+
+* [GitHub](https://github.com/KenLauLab/STAR_Protocol)
+
+`kitchen`: automated manipulation and processing of <acronym title="single-cell RNA sequencing">scRNA-seq</acronym> counts files from command line
+
+* [GitHub](https://github.com/codyheiser/kitchen) [![Latest Version][tag-version-kitchen]][repo-url-kitchen]
+* [Docs](https://codyheiser.github.io/kitchen/)
+
+`cnmf`: packaged and streamlined version of <acronym title="consensus nonnegative matrix factorization">cNMF</acronym>, adapted from [Kotliar, et al. 2019](https://github.com/dylkot/cNMF)
+
+* [GitHub](https://github.com/codyheiser/cnmf) [![Latest Version][tag-version-cnmf]][repo-url-cnmf]
+* [Docs](https://codyheiser.github.io/cnmf/)
 
 `DR-structure`: quantitative framework for evaluating structural preservation of dimension reduced embeddings
-    [GitHub](https://github.com/KenLauLab/DR-structure-preservation)
-    [Docs](https://kenlaulab.github.io/DR-structure-preservation/)
+
+* [GitHub](https://github.com/KenLauLab/DR-structure-preservation)
+* [Docs](https://kenlaulab.github.io/DR-structure-preservation/)
 
 # Links
 
@@ -46,5 +59,9 @@ Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnat
 * [Lau Lab Website](https://www.mc.vanderbilt.edu/vumcdept/cellbio/laulab/people.html)
 * [Lau Lab Software](https://Ken-Lau-Lab.github.io)
 
-[pypi-image]: https://img.shields.io/pypi/v/dropkick
-[pypi-url]: https://pypi.python.org/pypi/dropkick/
+[pypi-image-dropkick]: https://img.shields.io/pypi/v/dropkick
+[pypi-url-dropkick]: https://pypi.python.org/pypi/dropkick/
+[tag-version-kitchen]: https://img.shields.io/github/v/tag/codyheiser/kitchen
+[repo-url-kitchen]: https://github.com/codyheiser/kitchen
+[tag-version-cnmf]: https://img.shields.io/github/v/tag/codyheiser/cNMF
+[repo-url-cnmf]: https://github.com/codyheiser/cNMF
