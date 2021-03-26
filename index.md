@@ -29,8 +29,10 @@ Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnat
 
 `dropkick`: automated QC and cell identification of <acronym title="single-cell RNA sequencing">scRNA-seq</acronym> data
 
+[![Latest Version][pypi-image-dropkick]][pypi-url-dropkick]
+
 * [GitHub](https://github.com/KenLauLab/dropkick)
-* [PyPI](https://pypi.python.org/pypi/dropkick/) [![Latest Version][pypi-image-dropkick]][pypi-url-dropkick]
+* [PyPI](https://pypi.python.org/pypi/dropkick/)
 * [Docs](https://kenlaulab.github.io/dropkick/)
 
 `STAR_protocol`: standard processing workflow for <acronym title="single-cell RNA sequencing">scRNA-seq</acronym> data
@@ -39,12 +41,16 @@ Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnat
 
 `kitchen`: automated manipulation and processing of <acronym title="single-cell RNA sequencing">scRNA-seq</acronym> counts files from command line
 
-* [GitHub](https://github.com/codyheiser/kitchen) [![Latest Version][tag-version-kitchen]][repo-url-kitchen]
+[![Latest Version][tag-version-kitchen]][repo-url-kitchen]
+
+* [GitHub](https://github.com/codyheiser/kitchen)
 * [Docs](https://codyheiser.github.io/kitchen/)
 
 `cnmf`: packaged and streamlined version of <acronym title="consensus nonnegative matrix factorization">cNMF</acronym>, adapted from [Kotliar, et al. 2019](https://github.com/dylkot/cNMF)
 
-* [GitHub](https://github.com/codyheiser/cnmf) [![Latest Version][tag-version-cnmf]][repo-url-cnmf]
+[![Latest Version][tag-version-cnmf]][repo-url-cnmf]
+
+* [GitHub](https://github.com/codyheiser/cnmf)
 * [Docs](https://codyheiser.github.io/cnmf/)
 
 `DR-structure`: quantitative framework for evaluating structural preservation of dimension reduced embeddings
