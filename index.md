@@ -25,9 +25,26 @@ Rozenblatt-Rosen O, et al. 2020. The Human Tumor Atlas Network: charting tumor t
 
 Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnatal murine β-cell fitness by regulating genes in Ca 2+ homeostasis, cell survival, vesicle biosynthesis, glucose metabolism, and stress response. *Diabetes*. p. db190721. [doi: 10.2337/db19-0721](https://doi.org/10.2337/db19-0721).
 
+# Code
+
+`dropkick`: automated QC and cell identification of <acronym title="single-cell RNA sequencing">scRNA-seq</acronym> data
+    [GitHub](https://github.com/KenLauLab/dropkick)
+    [PyPI](https://pypi.python.org/pypi/dropkick/) [![Latest Version][pypi-image]][pypi-url]
+    [Docs](https://kenlaulab.github.io/dropkick/)
+
+`STAR_protocol`: standard processing workflow for <acronym title="single-cell RNA sequencing">scRNA-seq</acronym> data
+    [GitHub](https://github.com/KenLauLab/STAR_Protocol)
+
+`DR-structure`: quantitative framework for evaluating structural preservation of dimension reduced embeddings
+    [GitHub](https://github.com/KenLauLab/DR-structure-preservation)
+    [Docs](https://kenlaulab.github.io/DR-structure-preservation/)
+
 # Links
 
 * [ORCID: 0000-0002-1299-1628](https://orcid.org/0000-0002-1299-1628)
-* [www.linkedin.com/in/codyheiser](https://www.linkedin.com/in/codyheiser)
+* [linkedin.com/in/codyheiser](https://www.linkedin.com/in/codyheiser)
 * [Lau Lab Website](https://www.mc.vanderbilt.edu/vumcdept/cellbio/laulab/people.html)
 * [Lau Lab Software](https://Ken-Lau-Lab.github.io)
+
+[pypi-image]: https://img.shields.io/pypi/v/dropkick
+[pypi-url]: https://pypi.python.org/pypi/dropkick/
