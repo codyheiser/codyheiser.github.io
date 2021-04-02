@@ -1,3 +1,14 @@
+# Overview
+
+Ph.D. Candidate at Vanderbilt University interested in high-dimensional data modeling and integration towards the characterization of colorectal cancer initiation, progression, and microenvironmental co-evolution.
+
+#### Links
+
+* [ORCID: 0000-0002-1299-1628](https://orcid.org/0000-0002-1299-1628)
+* [linkedin.com/in/codyheiser](https://www.linkedin.com/in/codyheiser)
+* [Lau Lab Website](https://www.mc.vanderbilt.edu/vumcdept/cellbio/laulab/people.html)
+* [Lau Lab Software](https://Ken-Lau-Lab.github.io)
+
 # Education
 
 #### Vanderbilt University
@@ -10,6 +21,8 @@
 > B.S., [Biomedical Engineering](https://www.bme.utexas.edu/), 2016
 
 # Publications
+
+Lin J-R, Wang S, Coy S, Tyler MA, Yapp C, Chen Y-A, **Heiser CN**, Lau KS, Santagata S, Sorger PK. 2021. Multiplexed 3D atlas of state transitions and immune interactions in colorectal cancer. *bioRxiv*. Cold Spring Harbor Press. [doi: 10.1101/2021.03.31.437984](http://doi.org/10.1101/2021.03.31.437984).
 
 **Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research* (in press). Cold Spring Harbor Press. ([bioRxiv Preprint](https://doi.org/10.1101/2020.10.08.332288))
 
@@ -57,13 +70,6 @@ Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnat
 
 * [GitHub](https://github.com/KenLauLab/DR-structure-preservation)
 * [Docs](https://kenlaulab.github.io/DR-structure-preservation/)
-
-# Links
-
-* [ORCID: 0000-0002-1299-1628](https://orcid.org/0000-0002-1299-1628)
-* [linkedin.com/in/codyheiser](https://www.linkedin.com/in/codyheiser)
-* [Lau Lab Website](https://www.mc.vanderbilt.edu/vumcdept/cellbio/laulab/people.html)
-* [Lau Lab Software](https://Ken-Lau-Lab.github.io)
 
 [pypi-image-dropkick]: https://img.shields.io/pypi/v/dropkick
 [pypi-url-dropkick]: https://pypi.python.org/pypi/dropkick/
