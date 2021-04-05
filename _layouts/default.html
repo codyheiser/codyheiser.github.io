@@ -1,5 +1,31 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .social-footer {
+      padding: 1rem;
+      background: $dark-gray;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      .social-footer-icons {
+        li:last-of-type {
+          margin-right: 0;
+        }
+
+        .fa {
+            font-size: 1.3rem;
+            color: $white;
+
+            &:hover {
+              color: darken($dark-gray, 25%);
+              transition: color 0.3s ease-in;
+          }
+        }
+      }
+    }
+  </style>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,23 +51,31 @@
           {% endif %}
         </ul>
 
-        {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <!--<ul>
+          <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+        </ul>
 
-        {% if site.github.is_user_page %}
-          <ul>
-            <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-          </ul>
-        {% endif %}
+        <a href="https://twitter.com/cody_heiser?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cody_heiser</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        <div id="widget ">
+          <div class="btn-o bg-blue" data-scribe="component:button" style="width: 100%;"><a href="https://www.instagram.com/_codyheiser/" class="btn" id="b"><i class="fa fa-instagram ft14"></i><span class="label" id="l">Instagram</span></a></div>
+        </div>-->
+
       </header>
 
       <section>
         {{ content }}
       </section>
 
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      <footer class="social-footer">
+        <div class="social-footer-icons">
+          <ul class="menu simple">
+            <li><a href="https://github.com/codyheiser"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+            <li><a href="https://twitter.com/cody_heiser"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="https://linkedin.com/in/codyheiser"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+            <li><a href="https://instagram.com/_codyheiser"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+          </ul>
+        </div>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
