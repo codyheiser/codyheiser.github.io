@@ -21,11 +21,11 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 # Publications
 
+Chen B, Ramirez-Solano MA, **Heiser CN**, Liu Q, Lau KS. 2021. Processing single-cell RNA-seq data for dimension reduction-based analyses using open-source tools. *STAR Protocols*. Cell Press. [doi: 10.1016/j.xpro.2021.100450](https://doi.org/10.1016/j.xpro.2021.100450)
+
+**Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research*. Cold Spring Harbor Press. [doi: 10.1101/gr.271908.120](https://doi.org/10.1101/gr.271908.120)
+
 Lin J-R, Wang S, Coy S, Tyler MA, Yapp C, Chen Y-A, **Heiser CN**, Lau KS, Santagata S, Sorger PK. 2021. Multiplexed 3D atlas of state transitions and immune interactions in colorectal cancer. *bioRxiv*. Cold Spring Harbor Press. [doi: 10.1101/2021.03.31.437984](http://doi.org/10.1101/2021.03.31.437984).
-
-**Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research* (in press). Cold Spring Harbor Press. ([bioRxiv Preprint](https://doi.org/10.1101/2020.10.08.332288))
-
-Chen B, Ramirez-Solano MA, **Heiser CN**, Liu Q, Lau KS. 2021. Processing single-cell RNA-seq data for dimension reduction-based analyses using open-source tools. *STAR Protocols* (in press). Cell Press.
 
 Bao S, Chiron S, Tang Y, **Heiser CN**, et al. A cross-platform informatics system for the Gut Cell Atlas: integrating clinical, anatomical and histological data. *Proc. SPIE 11601, Medical Imaging 2021: Imaging Informatics for Healthcare, Research, and Applications*, 1160106. 15 Feb 2021. [doi: 10.1117/12.2581074](https://doi.org/10.1117/12.2581074).
 
