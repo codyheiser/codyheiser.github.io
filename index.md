@@ -21,6 +21,8 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 # Publications
 
+Markham NO, Drewes JL, Domingue JC, Chen B, **Heiser CN**, et al. 2021. 665 human colon cancer-associated biofilms alter host immune populations and promote tumorigenesis. *Gastroenterology*. American Gastroenterological Association, 160(6):S-128. [doi: 10.1016/S0016-5085(21)01059-3](http://dx.doi.org/10.1016/S0016-5085(21)01059-3).
+
 Chen B, Ramirez-Solano MA, **Heiser CN**, Liu Q, Lau KS. 2021. Processing single-cell RNA-seq data for dimension reduction-based analyses using open-source tools. *STAR Protocols*. Cell Press. [doi: 10.1016/j.xpro.2021.100450](https://doi.org/10.1016/j.xpro.2021.100450)
 
 **Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research*. Cold Spring Harbor Press. [doi: 10.1101/gr.271908.120](https://doi.org/10.1101/gr.271908.120)
