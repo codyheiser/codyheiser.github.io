@@ -21,6 +21,8 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 # Publications
 
+Wylezinski LS, Harris CR, **Heiser CN**, Gray JD and Spurlock CF. 2021. Influence of social determinants of health and county vaccination rates on machine learning models to predict COVID-19 case growth in Tennessee. BMJ Health & Care Informatics. BMJ, 0:e100439. [doi: 10.1136/bmjhci-2021-100439](http://doi.org/10.1136/bmjhci-2021-100439).
+
 Markham NO, Drewes JL, Domingue JC, Chen B, **Heiser CN**, et al. 2021. 665 human colon cancer-associated biofilms alter host immune populations and promote tumorigenesis. *Gastroenterology*. American Gastroenterological Association, 160(6):S-128. [doi: 10.1016/S0016-5085(21)01059-3](http://dx.doi.org/10.1016/S0016-5085(21)01059-3).
 
 Chen B, Ramirez-Solano MA, **Heiser CN**, Liu Q, Lau KS. 2021. Processing single-cell RNA-seq data for dimension reduction-based analyses using open-source tools. *STAR Protocols*. Cell Press. [doi: 10.1016/j.xpro.2021.100450](https://doi.org/10.1016/j.xpro.2021.100450)
