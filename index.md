@@ -12,7 +12,7 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 #### Vanderbilt University
 
-> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/) 2022 (*expected*)  
+> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/) 2022 (*expected*)
 > Thesis research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
 
 #### University of Texas at Austin
@@ -21,15 +21,17 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 # Publications
 
-Chen B, Scurrah CR, McKinley ET, Simmons AJ, Ramirez-Solano MA, Zhu X, Markham NO, **Heiser CN**, et al. 2021 Differential pre-malignant programs and microenvironment chart distinct paths to malignancy in human colorectal polyps. *Cell*. Cell Press. [doi: 10.1016/j.cell.2021.11.031](https://doi.org/10.1016/j.cell.2021.11.031)
+McKinley ET, Shao J, Ellis ST, **Heiser CN**, Roland JT, Macedonia MC, Vega PN, Shin S, Coffey RJ, Lau KS. 2022. MIRIAM: A machine and deep learning single-cell segmentation and quantification pipeline for multi-dimensional tissue images. *Cytometry: Part A*. Wiley. [doi: 10.1002/cyto.a.24541](https://doi.org/10.1002/cyto.a.24541).
+
+Chen B, Scurrah CR, McKinley ET, Simmons AJ, Ramirez-Solano MA, Zhu X, Markham NO, **Heiser CN**, et al. 2021 Differential pre-malignant programs and microenvironment chart distinct paths to malignancy in human colorectal polyps. *Cell*. Cell Press. [doi: 10.1016/j.cell.2021.11.031](https://doi.org/10.1016/j.cell.2021.11.031).
 
 Wylezinski LS, Harris CR, **Heiser CN**, Gray JD and Spurlock CF. 2021. Influence of social determinants of health and county vaccination rates on machine learning models to predict COVID-19 case growth in Tennessee. *BMJ Health & Care Informatics*. BMJ, 0:e100439. [doi: 10.1136/bmjhci-2021-100439](http://doi.org/10.1136/bmjhci-2021-100439).
 
 Markham NO, Drewes JL, Domingue JC, Chen B, **Heiser CN**, et al. 2021. Human colon cancer-associated biofilms alter host immune populations and promote tumorigenesis. *Gastroenterology*. American Gastroenterological Association, 160(6):S-128. [doi: 10.1016/S0016-5085(21)01059-3](http://dx.doi.org/10.1016/S0016-5085(21)01059-3).
 
-Chen B, Ramirez-Solano MA, **Heiser CN**, Liu Q, Lau KS. 2021. Processing single-cell RNA-seq data for dimension reduction-based analyses using open-source tools. *STAR Protocols*. Cell Press. [doi: 10.1016/j.xpro.2021.100450](https://doi.org/10.1016/j.xpro.2021.100450)
+Chen B, Ramirez-Solano MA, **Heiser CN**, Liu Q, Lau KS. 2021. Processing single-cell RNA-seq data for dimension reduction-based analyses using open-source tools. *STAR Protocols*. Cell Press. [doi: 10.1016/j.xpro.2021.100450](https://doi.org/10.1016/j.xpro.2021.100450).
 
-**Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research*. Cold Spring Harbor Press. [doi: 10.1101/gr.271908.120](https://doi.org/10.1101/gr.271908.120)
+**Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research*. Cold Spring Harbor Press. [doi: 10.1101/gr.271908.120](https://doi.org/10.1101/gr.271908.120).
 
 Lin J-R, Wang S, Coy S, Tyler MA, Yapp C, Chen Y-A, **Heiser CN**, Lau KS, Santagata S, Sorger PK. 2021. Multiplexed 3D atlas of state transitions and immune interactions in colorectal cancer. *bioRxiv*. Cold Spring Harbor Press. [doi: 10.1101/2021.03.31.437984](http://doi.org/10.1101/2021.03.31.437984).
 
