@@ -5,7 +5,7 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 #### Links
 
 * [ORCID: 0000-0002-1299-1628](https://orcid.org/0000-0002-1299-1628)
-* [Lau Lab Website](https://www.mc.vanderbilt.edu/vumcdept/cellbio/laulab/people.html)
+* [Lau Lab Website](https://kenlaulab.org/)
 * [Lau Lab Software](https://Ken-Lau-Lab.github.io)
 
 # Education
