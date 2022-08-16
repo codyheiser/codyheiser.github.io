@@ -21,7 +21,7 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 # Publications
 
-Drewes JL, Chen J, Markham NO, Knippel RJ, Domingue JC, Tam AJ, Chan JL, Kim L, McMann M, Stevens C, Dejea CM, Tomkovich S, Michel J, White JR, Mohammad F, Campodonico VL, **Heiser CN**, et al. 2022. Human colon cancer-derived *Clostridioides difficile* strains drive colonic tumorigenesis in mice. *Cancer Discovery* (Accepted). American Association for Cancer Research.
+Drewes JL, Chen J, Markham NO, Knippel RJ, Domingue JC, Tam AJ, Chan JL, Kim L, McMann M, Stevens C, Dejea CM, Tomkovich S, Michel J, White JR, Mohammad F, Campodonico VL, **Heiser CN**, et al. 2022. Human colon cancer-derived *Clostridioides difficile* strains drive colonic tumorigenesis in mice. *Cancer Discovery*. American Association for Cancer Research. [doi: 10.1158/2159-8290.CD-21-1273](https://doi.org/10.1158/2159-8290.CD-21-1273).
 
 Schapiro, et al. 2022. MITI minimum information guidelines for highly multiplexed tissue images. *Nature Methods*. Springer Nature Limited, **19**, 262-267. [doi: 10.1038/s41592-022-01415-4](https://www.nature.com/articles/s41592-022-01415-4)
 
@@ -35,16 +35,13 @@ Chen B, Ramirez-Solano MA, **Heiser CN**, Liu Q, Lau KS. 2021. Processing single
 
 **Heiser CN**, Wang VM, Chen B, Hughey JJ, Lau KS. 2021. Automated quality control and cell identification of droplet-based single-cell data using dropkick. *Genome Research*. Cold Spring Harbor Press. [doi: 10.1101/gr.271908.120](https://doi.org/10.1101/gr.271908.120).
 
-Lin J-R, Wang S, Coy S, Tyler MA, Yapp C, Chen Y-A, **Heiser CN**, Lau KS, Santagata S, Sorger PK. 2021. Multiplexed 3D atlas of state transitions and immune interactions in colorectal cancer. *bioRxiv*. Cold Spring Harbor Press. [doi: 10.1101/2021.03.31.437984](http://doi.org/10.1101/2021.03.31.437984).
-
 Bao S, Chiron S, Tang Y, **Heiser CN**, et al. A cross-platform informatics system for the Gut Cell Atlas: integrating clinical, anatomical and histological data. *Proc. SPIE 11601, Medical Imaging 2021: Imaging Informatics for Healthcare, Research, and Applications*, 1160106. 15 Feb 2021. [doi: 10.1117/12.2581074](https://doi.org/10.1117/12.2581074).
+
+Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnatal murine β-cell fitness by regulating genes in Ca 2+ homeostasis, cell survival, vesicle biosynthesis, glucose metabolism, and stress response. *Diabetes*. p. db190721. [doi: 10.2337/db19-0721](https://doi.org/10.2337/db19-0721).
 
 **Heiser CN** and Lau KS. 2020. A quantitative framework for evaluating single-cell data structure preservation by dimensionality reduction techniques. *Cell Reports*. Cell Press, 31(5), p. 107576. [doi: 10.1016/j.celrep.2020.107576](https://doi.org/10.1016/j.celrep.2020.107576).
 
-
 Rozenblatt-Rosen O, et al. 2020. The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution, *Cell*. Cell Press, 181(2), p. 236–249. [doi: 10.1016/J.CELL.2020.03.053](https://doi.org/10.1016/J.CELL.2020.03.053).
-
-Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnatal murine β-cell fitness by regulating genes in Ca 2+ homeostasis, cell survival, vesicle biosynthesis, glucose metabolism, and stress response. *Diabetes*. p. db190721. [doi: 10.2337/db19-0721](https://doi.org/10.2337/db19-0721).
 
 # Code
 
