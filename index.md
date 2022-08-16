@@ -12,8 +12,7 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 #### Vanderbilt University
 
-> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/) 2022 (*expected*)
-> Thesis research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
+> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/) 2022 (*expected*) - Thesis research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
 
 #### University of Texas at Austin
 
