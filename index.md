@@ -7,6 +7,7 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 * [ORCID: 0000-0002-1299-1628](https://orcid.org/0000-0002-1299-1628)
 * [Lau Lab Website](https://kenlaulab.org/)
 * [Lau Lab Software](https://Ken-Lau-Lab.github.io)
+* [ResearchGate](https://www.researchgate.net/profile/Cody-Heiser)
 
 # Education
 
@@ -20,11 +21,13 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 # Selected Publications
 
-**Heiser CN**, et al. 2022. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. *Manuscript in progress*.
+**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Roland JT, Wang J, Shao J, Wang Y, Ayers GD, Chen B, Kaur H, Vega PN, Vandekar S, Washington MK, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. Manuscript in progress.
 
-Kaur H, **Heiser CN**, et al. 2022. Consensus tissue domain detection in spatial multi-omics data using MILWRM. *Manuscript in progress*.
+Kaur H\*, **Heiser CN**\*, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Shrubsole MJ, Coffey RJ, Lau KS, Vandekar S. 2023. Consensus tissue domain detection in spatial multi-omics data using MILWRM. Submitted to *Cell Systems*.
 
-Lin J, Wang S, Coy S, Chen Y, Yapp C, Tyler M, Nariya MK, **Heiser CN**, Lau KS, Santagata S, Sorger PK. 2022. Multiplexed 3D atlas of state transitions and immune interactions in colorectal cancer. Accepted to *Cell*. Cell Press.
+Arceneaux D, Chen Z, Simmons AJ, **Heiser CN**, Southard-Smith AN, Brenan MJ, Yang Y, Chen B, Xu Y, Choi E, Campbell JD, Liu Q, Lau KS. 2023. A contamination focused approach for optimizing the single-cell RNA-seq experiment. Submitted to *Cell Reports Methods*. [Preprint doi: 10.1101/2022.10.25.513758](https://doi.org/10.1101/2022.10.25.513758).
+
+Lin J, Wang S, Coy S, Chen Y, Yapp C, Tyler M, Nariya MK, **Heiser CN**, Lau KS, Santagata S, Sorger PK. 2023. Multiplexed 3D atlas of state transitions and immune interactions in colorectal cancer. Accepted to *Cell*. [Preprint doi: 10.1101/2021.03.31.437984](https://doi.org/10.1101/2021.03.31.437984).
 
 Drewes JL, Chen J, Markham NO, Knippel RJ, Domingue JC, Tam AJ, Chan JL, Kim L, McMann M, Stevens C, Dejea CM, Tomkovich S, Michel J, White JR, Mohammad F, Campodonico VL, **Heiser CN**, et al. 2022. Human colon cancer-derived *Clostridioides difficile* strains drive colonic tumorigenesis in mice. *Cancer Discovery*. American Association for Cancer Research. [doi: 10.1158/2159-8290.CD-21-1273](https://doi.org/10.1158/2159-8290.CD-21-1273).
 
