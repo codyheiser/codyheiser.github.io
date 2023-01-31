@@ -49,7 +49,7 @@ Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnat
 
 # Code
 
-[`MILWRM`](https://github.com/codyheiser/MILWRM): consensus tissue region identification from multiplex molecular image data for digital pathology ([documentation](https://codyheiser.github.io/MILWRM/))
+[`MILWRM`](https://github.com/Ken-Lau-Lab/MILWRM): consensus tissue region identification from multiplex molecular image data for digital pathology ([documentation](https://ken-lau-lab.github.io/MILWRM/))
 
 [![Latest Version][pypi-image-MILWRM]][pypi-url-MILWRM]
 
