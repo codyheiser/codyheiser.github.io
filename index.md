@@ -23,9 +23,9 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 **Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Roland JT, Wang J, Shao J, Wang Y, Ayers GD, Chen B, Kaur H, Vega PN, Vandekar S, Washington MK, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. Manuscript in progress.
 
-Kaur H\*, **Heiser CN**\*, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Shrubsole MJ, Coffey RJ, Lau KS, Vandekar S. 2023. Consensus tissue domain detection in spatial multi-omics data using MILWRM. Submitted to *Cell Systems*.
+Kaur H\*, **Heiser CN**\*, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Shrubsole MJ, Coffey RJ, Lau KS, Vandekar S. 2023. Consensus tissue domain detection in spatial multi-omics data using MILWRM. In review at *Cell Systems*.
 
-Arceneaux D, Chen Z, Simmons AJ, **Heiser CN**, Southard-Smith AN, Brenan MJ, Yang Y, Chen B, Xu Y, Choi E, Campbell JD, Liu Q, Lau KS. 2023. A contamination focused approach for optimizing the single-cell RNA-seq experiment. In revision at *Cell Reports Methods*. [Preprint doi: 10.1101/2022.10.25.513758](https://doi.org/10.1101/2022.10.25.513758).
+Arceneaux D, Chen Z, Simmons AJ, **Heiser CN**, Southard-Smith AN, Brenan MJ, Yang Y, Chen B, Xu Y, Choi E, Campbell JD, Liu Q, Lau KS. 2023. A contamination focused approach for optimizing the single-cell RNA-seq experiment. In revision at *iScience*. [Preprint doi: 10.1101/2022.10.25.513758](https://doi.org/10.1101/2022.10.25.513758).
 
 Lin J, Wang S, Coy S, Chen Y, Yapp C, Tyler M, Nariya MK, **Heiser CN**, Lau KS, Santagata S, Sorger PK. 2023. Multiplexed 3D atlas of state transitions and immune interaction in colorectal cancer. *Cell*. Cell Press. [doi: 10.1016/j.cell.2022.12.028](https://doi.org/10.1016/j.cell.2022.12.028).
 
