@@ -21,7 +21,7 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 # Selected Publications
 
-**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Roland JT, Wang J, Shao J, Wang Y, Ayers GD, Chen B, Kaur H, Vega PN, Vandekar S, Washington MK, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. Manuscript in progress.
+**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Shao J, Ayers GD, Wang Y, Glass SE, Kaur H, Rolong A, Chen B, Vega PN, Saleh N, Vandekar S, Washington MK, Roland JT, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. Manuscript in progress.
 
 Kaur H\*, **Heiser CN**\*, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Shrubsole MJ, Coffey RJ, Lau KS, Vandekar S. 2023. Consensus tissue domain detection in spatial multi-omics data using MILWRM. In review at *Cell Systems*.
 
