@@ -1,6 +1,6 @@
 # Overview
 
-Ph.D. Candidate at Vanderbilt University interested in high-dimensional data modeling and integration towards the characterization of colorectal cancer initiation, progression, and microenvironmental co-evolution.
+Ph.D. from Vanderbilt University interested in high-dimensional data modeling and integration towards the characterization of colorectal cancer initiation, progression, and microenvironmental co-evolution.
 
 #### Links
 
@@ -13,7 +13,7 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 #### Vanderbilt University
 
-> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/) 2023 (*expected*) - Thesis research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
+> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/), March 2023 - Thesis research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
 
 #### University of Texas at Austin
 
@@ -21,9 +21,9 @@ Ph.D. Candidate at Vanderbilt University interested in high-dimensional data mod
 
 # Selected Publications
 
-**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Shao J, Ayers GD, Wang Y, Glass SE, Kaur H, Rolong A, Chen B, Vega PN, Saleh N, Vandekar S, Washington MK, Roland JT, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. Manuscript in progress.
+**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Shao J, Ayers GD, Wang Y, Glass SE, Kaur H, Rolong A, Chen B, Vega PN, Drewes JL, Saleh N, Vandekar S, Washington MK, Roland JT, Sears CL, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. In review at *Cell*. [Preprint doi: 10.1101/2023.03.09.530832](https://doi.org/10.1101/2023.03.09.530832).
 
-Kaur H\*, **Heiser CN**\*, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Shrubsole MJ, Coffey RJ, Lau KS, Vandekar S. 2023. Consensus tissue domain detection in spatial multi-omics data using MILWRM. In review at *Cell Systems*.
+Kaur H\*, **Heiser CN**\*, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Shrubsole MJ, Coffey RJ, Lau KS, Vandekar S. 2023. Consensus tissue domain detection in spatial multi-omics data using MILWRM. In review at *Cell Systems*. [Preprint doi: 10.1101/2023.02.02.526900](https://doi.org/10.1101/2023.02.02.526900).
 
 Arceneaux D, Chen Z, Simmons AJ, **Heiser CN**, Southard-Smith AN, Brenan MJ, Yang Y, Chen B, Xu Y, Choi E, Campbell JD, Liu Q, Lau KS. 2023. A contamination focused approach for optimizing the single-cell RNA-seq experiment. In revision at *iScience*. [Preprint doi: 10.1101/2022.10.25.513758](https://doi.org/10.1101/2022.10.25.513758).
 
