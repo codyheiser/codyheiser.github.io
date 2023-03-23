@@ -2,7 +2,7 @@
 
 Ph.D. from Vanderbilt University interested in high-dimensional data modeling and integration towards the characterization of colorectal cancer initiation, progression, and microenvironmental co-evolution.
 
-### Links
+#### Links
 
 * [ResearchGate](https://www.researchgate.net/profile/Cody-Heiser)
 * [ORCID: 0000-0002-1299-1628](https://orcid.org/0000-0002-1299-1628)
@@ -11,11 +11,11 @@ Ph.D. from Vanderbilt University interested in high-dimensional data modeling an
 
 # Education
 
-### Vanderbilt University
+#### Vanderbilt University
 
 > Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/), March 2023<br />Dissertation research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
 
-### University of Texas at Austin
+#### University of Texas at Austin
 
 > B.S., [Biomedical Engineering](https://www.bme.utexas.edu/), 2016
 
@@ -59,7 +59,6 @@ Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnat
 [`cnmf`](https://github.com/codyheiser/cnmf): packaged and streamlined version of <acronym title="consensus nonnegative matrix factorization">cNMF</acronym>, adapted from [Kotliar, et al. 2019](https://github.com/dylkot/cNMF) ([documentation](https://codyheiser.github.io/cnmf/)) <br />
 [![Latest Version][tag-version-cnmf]][repo-url-cnmf]
 
-<br />
 <div class="github-widget" data-username="codyheiser"></div>
 <script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
 
