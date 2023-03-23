@@ -1,4 +1,4 @@
-# Overview
+# Bio
 
 Ph.D. from Vanderbilt University interested in high-dimensional data modeling and integration towards the characterization of colorectal cancer initiation, progression, and microenvironmental co-evolution.
 
@@ -13,7 +13,7 @@ Ph.D. from Vanderbilt University interested in high-dimensional data modeling an
 
 #### Vanderbilt University
 
-> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/), March 2023 - Thesis research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
+> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/), March 2023 - Dissertation research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
 
 #### University of Texas at Austin
 
@@ -48,6 +48,9 @@ Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnat
 **Heiser CN** and Lau KS. 2020. A quantitative framework for evaluating single-cell data structure preservation by dimensionality reduction techniques. *Cell Reports*. Cell Press, 31(5), p. 107576. [doi: 10.1016/j.celrep.2020.107576](https://doi.org/10.1016/j.celrep.2020.107576).
 
 # Code
+
+<div class="github-widget" data-username="codyheiser"></div>
+<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
 
 [`MILWRM`](https://github.com/Ken-Lau-Lab/MILWRM): consensus tissue region identification from multiplex molecular image data for digital pathology ([documentation](https://ken-lau-lab.github.io/MILWRM/))
 
