@@ -13,7 +13,7 @@ Ph.D. from Vanderbilt University interested in high-dimensional data modeling an
 
 #### Vanderbilt University
 
-> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/), March 2023<br />Dissertation research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
+> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/), 2023<br />Dissertation research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
 
 #### University of Texas at Austin
 
@@ -64,6 +64,7 @@ Yang X, Graff SM, **Heiser CN**, et al. 2020. Coregulator Sin3a promotes postnat
 
 # Awards
 
+* Graduate Student of the Year **(Vanderbilt University Men's Ice Hockey - 04/2023)**
 * Brighter Ventures Award **(Vanderbilt University School of Medicine - 06/2022)**
 * Dean's Award for Exceptional Achievement **(Vanderbilt University School of Medicine - 07/2021)**
 * Lai Sulin Endowed Cancer Research Scholarship **(Vanderbilt University - 04/2021)**
