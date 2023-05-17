@@ -13,7 +13,7 @@ Ph.D. from Vanderbilt University interested in high-dimensional data modeling an
 
 #### Vanderbilt University
 
-> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/), 2023<br />Dissertation research in the [Lau Lab](https://Ken-Lau-Lab.github.io)
+> Ph.D., [Chemical & Physical Biology](https://medschool.vanderbilt.edu/cpb/), 2023<br />Dissertation: ["Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors"](http://hdl.handle.net/1803/18183)
 
 #### University of Texas at Austin
 
