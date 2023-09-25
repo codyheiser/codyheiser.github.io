@@ -21,7 +21,9 @@ Computational systems biology Ph.D. interested in high-dimensional data modeling
 
 # Selected Publications
 
-**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Shao J, Ayers GD, Wang Y, Glass SE, Kaur H, Rolong A, Chen B, Vega PN, Drewes JL, Saleh N, Vandekar S, Washington MK, Roland JT, Sears CL, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. In revision at *Cell*. [Preprint doi: 10.1101/2023.03.09.530832](https://doi.org/10.1101/2023.03.09.530832).
+**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Shao J, Ayers GD, Wang Y, Glass SE, Kaur H, Rolong A, Chen B, Vega PN, Drewes JL, Saleh N, Vandekar S, Washington MK, Roland JT, Sears CL, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. Accepted to *Cell*. [Preprint doi: 10.1101/2023.03.09.530832](https://doi.org/10.1101/2023.03.09.530832).
+
+Xiong J, Kaur H, **Heiser CN**, McKinley ET, Roland JT Coffey RJ, Shrubsole MJ, Wrobel J, Ma S, Lau KS, Vandekar S. 2023. GammaGateR: semi-automated marker gating for single-cell multiplexed imaging. [Preprint doi: 10.1101/2023.09.20.558645](http://dx.doi.org/10.1101/2023.09.20.558645).
 
 Kaur H\*, **Heiser CN**\*, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Shrubsole MJ, Coffey RJ, Lau KS, Vandekar S. 2023. Consensus tissue domain detection in spatial multi-omics data using MILWRM. In revision at *Cell Systems*. [Preprint doi: 10.1101/2023.02.02.526900](https://doi.org/10.1101/2023.02.02.526900). <br />
 [![Latest Version][pypi-image-MILWRM]][pypi-url-MILWRM] [`MILWRM` package](https://github.com/Ken-Lau-Lab/MILWRM) & [documentation](https://ken-lau-lab.github.io/MILWRM/)
