@@ -21,7 +21,7 @@ Computational systems biology Ph.D. interested in high-dimensional data modeling
 
 # Selected Publications
 
-**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Shao J, Ayers GD, Wang Y, Glass SE, Kaur H, Rolong A, Chen B, Vega PN, Drewes JL, Saleh N, Vandekar S, Washington MK, Roland JT, Sears CL, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. Accepted to *Cell*. [Preprint doi: 10.1101/2023.03.09.530832](https://doi.org/10.1101/2023.03.09.530832).
+**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Kaur H, Shao J, Ayers GD, Wang Y, Glass SE, Tasneem N, Chen Z, Qin Y, Kim W, Rolong A, Chen B, Vega PN, Drewes JL, Markham NO, Saleh N, Nikolos F, Vandekar S, Jones AL, Washington MK, Roland JT, Chan KS, Schurpf T, Sears CL, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. *Cell*. [doi: 10.1016/j.cell.2023.11.006](https://doi.org/10.1016/j.cell.2023.11.006).
 
 Xiong J, Kaur H, **Heiser CN**, McKinley ET, Roland JT Coffey RJ, Shrubsole MJ, Wrobel J, Ma S, Lau KS, Vandekar S. 2023. GammaGateR: semi-automated marker gating for single-cell multiplexed imaging. [Preprint doi: 10.1101/2023.09.20.558645](http://dx.doi.org/10.1101/2023.09.20.558645).
 
