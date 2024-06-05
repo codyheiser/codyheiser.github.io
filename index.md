@@ -1,6 +1,6 @@
 # Bio
 
-Computational systems biology Ph.D. interested in high-dimensional data modeling and integration towards the characterization of cancer initiation, progression, and microenvironmental co-evolution.
+Computational systems biologist interested in high-dimensional data modeling and integration towards the characterization of cancer initiation, progression, and microenvironmental co-evolution.
 
 #### Links
 
@@ -21,12 +21,12 @@ Computational systems biology Ph.D. interested in high-dimensional data modeling
 
 # Selected Publications
 
+Xiong J, Kaur H, **Heiser CN**, McKinley ET, Roland JT, Coffey RJ, Shrubsole MJ, Wrobel J, Ma S, Lau KS, Vandekar S. 2024. GammaGateR: semi-automated marker gating for single-cell multiplexed imaging. *Bioinformatics*. Oxford Academic. [doi: 10.1093/bioinformatics/btae356](http://doi.org/10.1093/bioinformatics/btae356).
+
 Srinivasan J, Helm BR, Yang Y, Moore C, Moore JF, Calindi A, Selden HJ, **Heiser CN**, Liu Q, Lau KS, Ehrlich LIR. 2023. Single-cell transcriptomics reveals heterogenous thymic dendritic cell subsets with distinct functions and requirements for thymocyte-regulated crosstalk. [Preprint doi: 10.1101/2023.12.18.572281](https://doi.org/10.1101/2023.12.18.572281).
 
 **Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Kaur H, Shao J, Ayers GD, Wang Y, Glass SE, Tasneem N, Chen Z, Qin Y, Kim W, Rolong A, Chen B, Vega PN, Drewes JL, Markham NO, Saleh N, Nikolos F, Vandekar S, Jones AL, Washington MK, Roland JT, Chan KS, Schurpf T, Sears CL, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. *Cell*. [doi: 10.1016/j.cell.2023.11.006](https://doi.org/10.1016/j.cell.2023.11.006). <br />
 [`spatial_CRC_atlas` repository](https://github.com/Ken-Lau-Lab/spatial_CRC_atlas) & [`spatial_CRC_atlas_imaging` repository](https://github.com/Ken-Lau-Lab/spatial_CRC_atlas_imaging)
-
-Xiong J, Kaur H, **Heiser CN**, McKinley ET, Roland JT Coffey RJ, Shrubsole MJ, Wrobel J, Ma S, Lau KS, Vandekar S. 2023. GammaGateR: semi-automated marker gating for single-cell multiplexed imaging. [Preprint doi: 10.1101/2023.09.20.558645](http://dx.doi.org/10.1101/2023.09.20.558645).
 
 Kaur H\*, **Heiser CN**\*, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Shrubsole MJ, Coffey RJ, Lau KS, Vandekar S. 2023. Consensus tissue domain detection in spatial multi-omics data using MILWRM. In revision at *Cell Systems*. [Preprint doi: 10.1101/2023.02.02.526900](https://doi.org/10.1101/2023.02.02.526900). <br />
 [![Latest Version][pypi-image-MILWRM]][pypi-url-MILWRM] [`MILWRM` package](https://github.com/Ken-Lau-Lab/MILWRM) & [documentation](https://ken-lau-lab.github.io/MILWRM/)
