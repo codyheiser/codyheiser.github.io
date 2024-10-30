@@ -21,15 +21,15 @@ Computational systems biologist interested in high-dimensional data modeling and
 
 # Selected Publications
 
+Kaur H, **Heiser CN**, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Farrow MA, Selden HJ, Pingry EL, Moore JF, Ehrlich LIR, Shrubsole MJ, Spraggins JM, Coffey RJ, Lau KS, Vandekar SN. 2024. Consensus tissue domain detection in spatial multi-omics data using multiplex image labeling with regional morphology (MILWRM). *Communications Biology*. Springer Nature. [doi: 10.1038/s42003-024-06281-8](https://doi.org/10.1038/s42003-024-06281-8). <br />
+[![Latest Version][pypi-image-MILWRM]][pypi-url-MILWRM] [`MILWRM` package](https://github.com/Ken-Lau-Lab/MILWRM) & [documentation](https://ken-lau-lab.github.io/MILWRM/)
+
 Xiong J, Kaur H, **Heiser CN**, McKinley ET, Roland JT, Coffey RJ, Shrubsole MJ, Wrobel J, Ma S, Lau KS, Vandekar S. 2024. GammaGateR: semi-automated marker gating for single-cell multiplexed imaging. *Bioinformatics*. Oxford Academic. [doi: 10.1093/bioinformatics/btae356](http://doi.org/10.1093/bioinformatics/btae356).
 
 Srinivasan J, Helm BR, Yang Y, Moore C, Moore JF, Calindi A, Selden HJ, **Heiser CN**, Liu Q, Lau KS, Ehrlich LIR. 2023. Single-cell transcriptomics reveals heterogenous thymic dendritic cell subsets with distinct functions and requirements for thymocyte-regulated crosstalk. [Preprint doi: 10.1101/2023.12.18.572281](https://doi.org/10.1101/2023.12.18.572281).
 
-**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Kaur H, Shao J, Ayers GD, Wang Y, Glass SE, Tasneem N, Chen Z, Qin Y, Kim W, Rolong A, Chen B, Vega PN, Drewes JL, Markham NO, Saleh N, Nikolos F, Vandekar S, Jones AL, Washington MK, Roland JT, Chan KS, Schurpf T, Sears CL, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. *Cell*. [doi: 10.1016/j.cell.2023.11.006](https://doi.org/10.1016/j.cell.2023.11.006). <br />
+**Heiser CN**, Simmons AJ, Revetta F, McKinley ET, Ramirez-Solano MA, Wang J, Kaur H, Shao J, Ayers GD, Wang Y, Glass SE, Tasneem N, Chen Z, Qin Y, Kim W, Rolong A, Chen B, Vega PN, Drewes JL, Markham NO, Saleh N, Nikolos F, Vandekar S, Jones AL, Washington MK, Roland JT, Chan KS, Schurpf T, Sears CL, Liu Q, Shrubsole MJ, Coffey RJ, Lau KS. 2023. Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors. *Cell*. Cell Press. [doi: 10.1016/j.cell.2023.11.006](https://doi.org/10.1016/j.cell.2023.11.006). <br />
 [`spatial_CRC_atlas` repository](https://github.com/Ken-Lau-Lab/spatial_CRC_atlas) & [`spatial_CRC_atlas_imaging` repository](https://github.com/Ken-Lau-Lab/spatial_CRC_atlas_imaging)
-
-Kaur H\*, **Heiser CN**\*, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Shrubsole MJ, Coffey RJ, Lau KS, Vandekar S. 2023. Consensus tissue domain detection in spatial multi-omics data using MILWRM. In revision at *Cell Systems*. [Preprint doi: 10.1101/2023.02.02.526900](https://doi.org/10.1101/2023.02.02.526900). <br />
-[![Latest Version][pypi-image-MILWRM]][pypi-url-MILWRM] [`MILWRM` package](https://github.com/Ken-Lau-Lab/MILWRM) & [documentation](https://ken-lau-lab.github.io/MILWRM/)
 
 Arceneaux D, Chen Z, Simmons AJ, **Heiser CN**, Southard-Smith AN, Brenan MJ, Yang Y, Chen B, Xu Y, Choi E, Campbell JD, Liu Q, Lau KS. 2023. A contamination focused approach for optimizing the single-cell RNA-seq experiment. *iScience*. Cell Press. [doi: 10.1016/j.isci.2023.107242](http://dx.doi.org/10.1016/j.isci.2023.107242).
 
