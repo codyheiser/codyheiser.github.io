@@ -21,6 +21,8 @@ Computational systems biologist interested in high-dimensional data modeling and
 
 # Selected Publications
 
+Glass SE, Bechard ME, Cao Z, Aramandla R, Zhao P, Ellis ST, Green EH, Fisher EG, Smith RT, Sievers CK, Johnson Irudayam M, Revetta F, Washington MK, Ayers GD, **Heiser CN**, Simmons AJ, Xu Y, Wang Y, Windon A, Shrubsole MJ, Markham NO, Liu Q, Lau KS, Coffey RJ. 2025. Dipeptidase-1 knockout mice develop invasive tumors with features of microsatellite unstable colorectal cancer. *JCI Insight*. [doi: 10.1172/jci.insight.186938](https://doi.org/10.1172/jci.insight.186938).
+
 Green EH, Kotrannavar SR, Rutherford ME, Lunnemann HM, Kaur H, **Heiser CN**, Ding H, Simmons AJ, Liu X, Lacy DB, Washington MK, Shrubsole MJ, Liu Q, Lau KS, Sears CL, Coffey RJ, Drewes JL, Markham NO. 2025. Multiomic spatial atlas shows deleted in malignant brain tumors 1 (DMBT1) glycoprotein is lost in colonic dysplasia. *Journal of Pathology*. [doi: 10.1002/path.6406](https://doi.org/10.1002/path.6406).
 
 Kaur H, **Heiser CN**, McKinley ET, Ventura-Antunes L, Harris CR, Roland JT, Farrow MA, Selden HJ, Pingry EL, Moore JF, Ehrlich LIR, Shrubsole MJ, Spraggins JM, Coffey RJ, Lau KS, Vandekar SN. 2024. Consensus tissue domain detection in spatial multi-omics data using multiplex image labeling with regional morphology (MILWRM). *Communications Biology*. Springer Nature. [doi: 10.1038/s42003-024-06281-8](https://doi.org/10.1038/s42003-024-06281-8). <br />
