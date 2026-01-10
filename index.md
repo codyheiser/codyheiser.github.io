@@ -21,6 +21,8 @@ Computational systems biologist interested in high-dimensional data modeling and
 
 # Selected Publications
 
+Srinivasan J, Moore CR, Calindi A, Helm BR, Yang Y, Moore JF, Selden HJ, **Heiser CN**, Liu Q, Lau KS, Ehrlich LIR. 2026. The differentiation and function of heterogeneous thymic dendritic cell subsets require signals provided by distinct thymocyte cell types. *Nature Immunology*. [doi: 10.1038/s41590-025-02371-9](https://doi.org/10.1038/s41590-025-02371-9).
+
 Glass SE, Bechard ME, Cao Z, Aramandla R, Zhao P, Ellis ST, Green EH, Fisher EG, Smith RT, Sievers CK, Johnson Irudayam M, Revetta F, Washington MK, Ayers GD, **Heiser CN**, Simmons AJ, Xu Y, Wang Y, Windon A, Shrubsole MJ, Markham NO, Liu Q, Lau KS, Coffey RJ. 2025. Dipeptidase-1 knockout mice develop invasive tumors with features of microsatellite unstable colorectal cancer. *JCI Insight*. [doi: 10.1172/jci.insight.186938](https://doi.org/10.1172/jci.insight.186938).
 
 Green EH, Kotrannavar SR, Rutherford ME, Lunnemann HM, Kaur H, **Heiser CN**, Ding H, Simmons AJ, Liu X, Lacy DB, Washington MK, Shrubsole MJ, Liu Q, Lau KS, Sears CL, Coffey RJ, Drewes JL, Markham NO. 2025. Multiomic spatial atlas shows deleted in malignant brain tumors 1 (DMBT1) glycoprotein is lost in colonic dysplasia. *Journal of Pathology*. [doi: 10.1002/path.6406](https://doi.org/10.1002/path.6406).
