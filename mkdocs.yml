@@ -1,0 +1,59 @@
+site_name: Cody N. Heiser
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      accent: lightblue
+      toggle:
+        icon: material/lightbulb 
+        name: Dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      accent: lightblue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Light mode
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.path
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+    - content.tabs.link
+    - content.code.annotate
+    - content.action.edit
+  font:
+    text: Roboto
+    code: Roboto Mono
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+nav:
+  - Bio: index.md
+  - Publications: pubs.md
+  - Code: code.md
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/codyheiser
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/cody-heiser/
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/codyheiser
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/_codyheiser
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:codyheiser49@gmail.com
+  generator: false
